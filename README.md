@@ -48,6 +48,18 @@ Welcome to my GitHub page. I am Ayush Krishna and now Information Technology stu
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Docker
     </td>
+ <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="Rest API" />
+      <br>VS Code
+    </td>
+ <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=latex" width="65" height="65" alt="Rest API" />
+      <br>Latex
+    </td>
+ <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=idea" width="65" height="65" alt="Rest API" />
+      <br>Intellij
+    </td>
   </tr>
   <tr>
    <td align="center" width="96">
@@ -127,7 +139,7 @@ Welcome to my GitHub page. I am Ayush Krishna and now Information Technology stu
   <summary>Activity Graph 📈</summary>
   <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rzashakeri&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayushk00&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
