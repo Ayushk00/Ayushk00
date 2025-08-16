@@ -12,7 +12,7 @@
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Ayush Krishna and now Information Technology student, I learn new things about programming and teach these things to others, I have been programming for almost more than 3 years and worked with many languages and technologies. With a strong passion for software development and competitive programming, I am eager to contribute to impactful projects and grow through meaningful professional experiences.
+Welcome to my GitHub page. I am Ayush Krishna and now Information Technology student, I learn new things about programming stuff, I have been programming for almost more than 3 years and worked with many languages and technologies. With a strong passion for software development and competitive programming, I am eager to contribute to impactful projects and grow through meaningful professional experiences.
 
 </p>
 
@@ -115,19 +115,6 @@ welcome to my GitHub Page. I am Ayush Krishna and now Information Technology stu
 
 </details>
 
-
-<details>
-  <summary>Wakatime ⏳</summary>
-  <br/>
-  <img src="https://wakatime.com/share/@Ayushk00/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
-  <br/>
-  <br/>
-  <br/>
-
-  <img src="https://wakatime.com/share/@Ayushk00/b43da924-55df-4315-897d-e4dd9fb798f9.png">
-</details>
-
-
 <details>
   <summary>Extra Pins 📌</summary>
   <br/>
@@ -143,13 +130,10 @@ welcome to my GitHub Page. I am Ayush Krishna and now Information Technology stu
   <br/>
    <a href="https://github.com/rzashakeri/telegram-bot-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=telegram-bot-template&theme=default" />
- </a> -->
-
-
+ </a>
    <br/>
   <br/>
- 
-   <!-- <a href="https://github.com/rzashakeri/personal-site">
+  <a href="https://github.com/rzashakeri/personal-site">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=personal-site&theme=default" />
  </a> -->
  
