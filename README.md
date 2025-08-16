@@ -127,7 +127,7 @@ Welcome to my GitHub page. I am Ayush Krishna and now Information Technology stu
 
 ## Github stats 📊
 
-<details>
+<details open>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Ayushk00&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
@@ -135,7 +135,7 @@ Welcome to my GitHub page. I am Ayush Krishna and now Information Technology stu
   <br/>
 </details>
 
-<details>
+<details open>
   <summary>Activity Graph 📈</summary>
   <br/>
 
@@ -144,7 +144,7 @@ Welcome to my GitHub page. I am Ayush Krishna and now Information Technology stu
 </details>
 
 
-<details>
+<details open>
   <summary>Profile Views 👁️</summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Ayushk00&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
