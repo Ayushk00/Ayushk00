@@ -27,14 +27,12 @@ Welcome to my GitHub page. I am Ayush Krishna and now Information Technology stu
       <br>C++
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Java
     </td>
    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="   https://skillicons.dev/icons?i=spring" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="65" height="65" />
       </a>
       <br>Spring
     </td>
@@ -98,7 +96,7 @@ Welcome to my GitHub page. I am Ayush Krishna and now Information Technology stu
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="Postman" />
       <br>MySQL
     </td>
-    td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Postman" />
       <br>ES
     </td>
