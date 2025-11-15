@@ -12,7 +12,7 @@
 </div>
 <p></p>
 <p align="justify">
-Welcome to my GitHub page. I am Ayush Krishna and now Information Technology student, I learn new things about programming stuff, I have been programming for almost more than 3 years and worked with many languages and technologies. With a strong passion for software development and competitive programming, I am eager to contribute to impactful projects and grow through meaningful professional experiences.
+Welcome to my GitHub page. I am Ayush Krishna and now Information Technology student, I learn new things about programming stuff, I have been programming for almost more than 2 years and worked with many languages and technologies. With a strong passion for software development and competitive programming, I am eager to contribute to impactful projects and grow through meaningful professional experiences.
 
 </p>
 
